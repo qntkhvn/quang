@@ -1,22 +1,38 @@
 ---
-title: "Me"
+author: "Quang Nguyen"
 output: rmdformats::downcute
 ---
 
-# Hello
+<img src="images/me.jpeg" alt = "Quang Nguyen" width="210" height="270">
 
-intro
+
+# About
+
+I am currently a graduate student at Loyola University Chicago, pursuing a Master of Science degree in Applied Statistics. I previously completed my undergraduate study at Wittenberg University in Springfield, Ohio, graduating in May 2020 with a Bachelor of Science degree in Mathematics and Data Science. I am originally from Nha Trang, Khanh Hoa, which is located in the South Central Coast of Vietnam. In my free time, you may find me watching sports, listening to podcasts, and cooking. I am a huge supporter of Manchester United F.C. of the English Premier League as well as NBA's LA Clippers.
 
 # CV
 
-here
+My CV can be found [here](docs/cv.pdf).
 
 # Projects
 
-list
+My past and current projects are publicly available on [`GitHub`](https://github.com/qntkhvn). In addition, below is a list of my posters and talks presented at statistics/data science/analytics conferences.
+
+  - *UCSAS*                  [`poster`](https://www.dropbox.com/s/6prz9oj3zur9scj/ucsas2020Poster.pdf?dl=0)
+  - *CMSAC*                  [`poster`](https://www.dropbox.com/s/y0daysvsnjukdjq/cmsac2020Poster.pdf?dl=0) [`video`](https://www.dropbox.com/s/vcudx5qqfk6u3cy/cmsac2020Video.mp4?dl=0)
+  - *NESS NextGen DSD*       [`poster`](https://www.dropbox.com/s/p0eg92zvdqy56ru/dsd2020Poster.pdf?dl=0)
+  - *MSAM*                   [`video`](https://www.dropbox.com/s/6xe2pntw25kzwpq/posterVideo.mp4?dl=0)
+
+# Links
+
+- [Mathematics](https://www.wittenberg.edu/academics/math) and [Data Science](https://www.wittenberg.edu/academics/data-science) at Wittenberg
+- [MS in Applied Statistics](https://www.luc.edu/math/msappliedstat/) at LUC
+- Installing [R](https://cloud.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/)
+- [RStudio Cheatsheets](https://rstudio.com/resources/cheatsheets/)
+- [R Markdown](https://bookdown.org/yihui/rmarkdown/)
+- [#RStats](https://twitter.com/hashtag/RStats)
 
 # Contact
 
--   email
-
--   linkedin
+- Email: <nminhquang.99@gmail.com>
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/mqnnguyen/)
