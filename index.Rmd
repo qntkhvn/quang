@@ -16,7 +16,7 @@ My CV can be found [here](docs/cv.pdf).
 
 # Projects
 
-My past and current projects are publicly available on [`GitHub`](https://github.com/qntkhvn). In addition, below is a list of my posters and talks presented at statistics/data science/analytics conferences.
+My past and current projects are publicly available on my [`GitHub`](https://github.com/qntkhvn) account. In addition, below is a list of my posters and talks presented at statistics/data science/analytics conferences.
 
   - *UCSAS*                  [`poster`](https://www.dropbox.com/s/6prz9oj3zur9scj/ucsas2020Poster.pdf?dl=0)
   - *CMSAC*                  [`poster`](https://www.dropbox.com/s/y0daysvsnjukdjq/cmsac2020Poster.pdf?dl=0) [`video`](https://www.dropbox.com/s/vcudx5qqfk6u3cy/cmsac2020Video.mp4?dl=0)
