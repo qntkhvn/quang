@@ -1,9 +1,10 @@
 ---
-author: "Quang Nguyen"
+title: "<span style='font-size: 30px'>Quang Nguyen</style>"
+author: "[`qntkhvn`](https://github.com/qntkhvn)"
 output: rmdformats::downcute
 ---
 
-<img src="images/me.jpeg" alt = "Quang Nguyen" width="200" height="270">
+<img src="images/me.jpeg" alt = "Quang Nguyen" width="205" height="270">
 
 
 # About
