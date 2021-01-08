@@ -3,7 +3,7 @@ author: "Quang Nguyen"
 output: rmdformats::downcute
 ---
 
-<img src="images/me.jpeg" alt = "Quang Nguyen" width="210" height="270">
+<img src="images/me.jpeg" alt = "Quang Nguyen" width="200" height="270">
 
 
 # About
