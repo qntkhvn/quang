@@ -1,6 +1,5 @@
 ---
-title: "<span style='font-size: 30px'>Quang Nguyen</style>"
-author: "[`qntkhvn`](https://github.com/qntkhvn)"
+title: "`QUANG NGUYEN`"
 output: rmdformats::downcute
 ---
 
@@ -37,3 +36,8 @@ My past and current projects are publicly available on my [`GitHub`](https://git
 
 - Email: <nminhquang.99@gmail.com>
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/mqnnguyen/)
+
+
+___
+
+Maintained by [qntkhvn](https://github.com/qntkhvn). Powered by [GitHub Pages](https://pages.github.com/).
