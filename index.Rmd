@@ -83,10 +83,13 @@ My past and current projects are publicly available on my [`GitHub`](https://git
 
 In addition, below is a list of my posters and talks presented at statistics/data science/analytics conferences.
 
-  - *UCSAS*                  [`poster`](https://www.dropbox.com/s/6prz9oj3zur9scj/ucsas2020Poster.pdf?dl=0)
-  - *CMSAC*                  [`poster`](https://www.dropbox.com/s/y0daysvsnjukdjq/cmsac2020Poster.pdf?dl=0) [`video`](https://www.dropbox.com/s/vcudx5qqfk6u3cy/cmsac2020Video.mp4?dl=0)
-  - *NESS NextGen DSD*       [`poster`](https://www.dropbox.com/s/p0eg92zvdqy56ru/dsd2020Poster.pdf?dl=0)
-  - *MSAM*                   [`video`](https://www.dropbox.com/s/6xe2pntw25kzwpq/posterVideo.mp4?dl=0)
+  - *UCSAS 2020*                  [`poster`](https://www.dropbox.com/s/6prz9oj3zur9scj/ucsas2020Poster.pdf?dl=0)
+  
+  - *CMSAC 2020*                  [`poster`](https://www.dropbox.com/s/y0daysvsnjukdjq/cmsac2020Poster.pdf?dl=0) [`video`](https://www.dropbox.com/s/vcudx5qqfk6u3cy/cmsac2020Video.mp4?dl=0)
+  
+  - *NESS NextGen DSD 2020*       [`poster`](https://www.dropbox.com/s/p0eg92zvdqy56ru/dsd2020Poster.pdf?dl=0)
+  
+  - *MSAM 2020*                   [`video`](https://www.dropbox.com/s/6xe2pntw25kzwpq/posterVideo.mp4?dl=0)
 
 </font>
 
@@ -101,8 +104,11 @@ R Resources
 <font size="4"> 
 
 - Installing [R](https://cloud.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/)
+
 - [RStudio Cheatsheets](https://rstudio.com/resources/cheatsheets/)
+
 - [R Markdown](https://bookdown.org/yihui/rmarkdown/)
+
 - [#RStats](https://twitter.com/hashtag/RStats)
 
 </font>
