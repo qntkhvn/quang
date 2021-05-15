@@ -8,6 +8,9 @@ output:
 ---
 
 <style>
+body {
+  padding: 100px 200px 100px 200px;
+}
 .image-container {
   background-position: center top !important;
 }
@@ -16,8 +19,6 @@ output:
 ```{r setup, include=FALSE}
 library(flexdashboard)
 ```
-
-# {.sidebar}
 
 # Home {data-icon="fa-home"}
 
