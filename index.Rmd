@@ -32,6 +32,8 @@ library(flexdashboard)
     
 ### {-}
 
+<br>
+
 <center>
 
 ![](https://raw.githubusercontent.com/qntkhvn/quang/main/images/me.png){width=70%}
@@ -45,8 +47,6 @@ MS Student in Applied Statistics
 Loyola University Chicago
 
 </font>
- 
-<br>
 
 <font size="6"> 
 
@@ -64,6 +64,8 @@ Loyola University Chicago
 ## {-} {data-width=400}
  
 ### {-}
+
+<br>
 
 <font size="6"> 
 
