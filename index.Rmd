@@ -17,8 +17,7 @@ library(flexdashboard)
 
 # Home {data-icon="fa-home"}
 
-Column {data-width=200}
--------------------------------------
+## {-} {data-width=200}
     
 ### {-}
 
@@ -50,10 +49,8 @@ Loyola University Chicago
 </font>
 
 </center>
-   
-Column {data-width=400}
--------------------------------------
 
+## {-} {data-width=400}
  
 ### {-}
 
@@ -123,9 +120,9 @@ Contact
 
 <font size="4"> 
 
-- <i class="fas fa-envelope"></i> <nminhquang.99@gmail.com>
+- <i class="fas fa-envelope"></i> &nbsp; <nminhquang.99@gmail.com>
 
-- <i class="fab fa-twitter-square"></i> [\@M_Quang_Nguyen](https://twitter.com/M_Quang_Nguyen)
+- <i class="fab fa-twitter-square"></i> &nbsp; [\@M_Quang_Nguyen](https://twitter.com/M_Quang_Nguyen)
 
 </font>
 
