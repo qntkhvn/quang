@@ -7,10 +7,11 @@ output:
       bootswatch: simplex
 ---
 
+<!-- body { -->
+<!--   padding: 100px 200px 100px 200px; -->
+<!-- } -->
+
 <style>
-body {
-  padding: 100px 200px 100px 200px;
-}
 .image-container {
   background-position: center top !important;
 }
@@ -28,7 +29,7 @@ library(flexdashboard)
 
 <center>
 
-![](https://raw.githubusercontent.com/qntkhvn/quang/main/images/me.png){width=80%}
+![](https://raw.githubusercontent.com/qntkhvn/quang/main/images/me.png){width=70%}
 
 <font size="4">
 
