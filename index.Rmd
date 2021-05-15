@@ -3,8 +3,8 @@ title: "Quang Nguyen"
 output:
   flexdashboard::flex_dashboard:
     theme: 
-      version: 4
-      bootswatch: simplex
+      primary: "blue"
+      navbar-bg: "firebrick"
 ---
 
 <!-- body { -->
@@ -12,10 +12,15 @@ output:
 <!-- } -->
 
 <style>
+.section.sidebar {
+  background-color: #F0F0F0;
+}
 .image-container {
   background-position: center top !important;
 }
 </style>
+
+# {.sidebar}
 
 ```{r setup, include=FALSE}
 library(flexdashboard)
