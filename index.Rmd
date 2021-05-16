@@ -73,6 +73,28 @@ Biography
 I am currently a graduate student at Loyola University Chicago, pursuing a Master of Science degree in Applied Statistics. I previously completed my undergraduate study at Wittenberg University in Springfield, Ohio, graduating in May 2020 with a Bachelor of Science degree in Mathematics and Data Science. I am originally from Nha Trang, Khanh Hoa, which is located in the South Central Coast of Vietnam. In my free time, you may find me watching sports, listening to podcasts, and cooking. I am a huge supporter of Manchester United F.C. of the English Premier League as well as NBA's LA Clippers.
 
 </font>
+
+<br>
+
+<font size="6"> 
+
+Interests
+
+</font>
+
+<font size="4"> 
+
+*   Statistics in Sports
+
+*   Using R and RStudio for Data Science
+
+*   Data Visualization
+
+*   Statistical Learning
+
+</font>
+
+
     
 # Projects {data-icon="fa-chart-line"}
 
