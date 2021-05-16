@@ -6,11 +6,6 @@ output:
       primary: "blue"
       navbar-bg: "firebrick"
 ---
-
-<!-- body { -->
-<!--   padding: 100px 200px 100px 200px; -->
-<!-- } -->
-
 <style>
 .section.sidebar {
   background-color: #F0F0F0;
@@ -138,4 +133,3 @@ Contact
 - <i class="fab fa-twitter-square"></i> &nbsp; [\@M_Quang_Nguyen](https://twitter.com/M_Quang_Nguyen)
 
 </font>
-
