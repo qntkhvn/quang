@@ -93,8 +93,6 @@ Interests
 *   Statistical Learning
 
 </font>
-
-
     
 # Projects {data-icon="fa-chart-line"}
 
@@ -120,11 +118,11 @@ In addition, below is a list of my posters and talks presented at statistics/dat
 
 </font>
 
-# Resources {data-icon="fab fa-r-project"} 
+# Resources {data-icon="fas fa-folder-open"} 
 
 <font size="6"> 
 
-R Resources
+R
 
 </font>
 
