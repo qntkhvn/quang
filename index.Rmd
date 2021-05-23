@@ -17,10 +17,6 @@ output:
 
 # {.sidebar}
 
-```{r setup, include=FALSE}
-library(flexdashboard)
-```
-
 # Home {data-icon="fa-home"}
 
 ## {-} {data-width=200}
@@ -74,25 +70,25 @@ I am currently a graduate student at Loyola University Chicago, pursuing a Maste
 
 </font>
 
-<br>
+<!-- <br> -->
 
-<font size="6"> 
+<!-- <font size="6">  -->
 
-Interests
+<!-- Interests -->
 
-</font>
+<!-- </font> -->
 
-<font size="4"> 
+<!-- <font size="4">  -->
 
-*   Statistics in Sports
+<!-- *   Statistics in Sports -->
 
-*   Using R and RStudio for Data Science
+<!-- *   Using R and RStudio for Data Science -->
 
-*   Data Visualization
+<!-- *   Data Visualization -->
 
-*   Statistical Learning
+<!-- *   Statistical Learning -->
 
-</font>
+<!-- </font> -->
     
 # Projects {data-icon="fa-chart-line"}
 
