@@ -13,9 +13,10 @@ output:
 .image-container {
   background-position: center top !important;
 }
+body {
+  padding: 100px 100px 0px 100px;
+}
 </style>
-
-# {.sidebar}
 
 # Home {data-icon="fa-home"}
 
