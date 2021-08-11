@@ -1,0 +1,270 @@
+---
+output: pdf_document
+header-includes:
+    - \usepackage{setspace}
+geometry: margin=0.9in
+fontsize: 10pt
+---
+
+# Ngoc Minh Quang Nguyen
+
+\small
+
+`r fontawesome::fa("envelope")` <nminhquang.99@gmail.com> &nbsp;
+<!-- `r fontawesome::fa("phone-alt")` 937-925-6791 &nbsp; -->
+`r fontawesome::fa("link")` [qntkhvn.netlify.app](https://qntkhvn.netlify.app) &nbsp;
+`r fontawesome::fa("linkedin")` [linkedin.com/in/mqnnguyen](https://www.linkedin.com/in/mqnnguyen) &nbsp;
+`r fontawesome::fa("github")` [qntkhvn](https://github.com/qntkhvn) &nbsp;
+`r fontawesome::fa("twitter")` [\@qntkhvn](https://twitter.com/qntkhvn)
+
+<!-- ## Contact Information -->
+
+<!-- -   Born: August 6, 1999, Nha Trang, Khanh Hoa, Vietnam -->
+
+<!-- -   Nationality: Vietnamese -->
+
+<!-- -   US Visa Status: F-1 (Full-time Academic Student) -->
+
+\normalsize
+
+## Education
+\vspace{-\baselineskip}
+\hrulefill
+    
+\begin{itemize} 
+    \item \textbf{Loyola University Chicago}, Chicago, Illinois
+    \item[] \textbf{Master of Science, Applied Statistics} \hspace*{\fill} Expected December 2021
+    \begin{itemize}
+        \item Current GPA: 4.00/4.00
+        \item Graduate Merit Award
+    \end{itemize}
+\end{itemize}
+
+\begin{itemize} 
+    \item \textbf{Wittenberg University}, Springfield, Ohio
+    \item[] \textbf{Bachelor of Science, Mathematics and Data Science} \hspace*{\fill} Graduated May 2020
+    \begin{itemize}
+        \item Summa Cum Laude; GPA: 3.97/4.00
+        \item Departmental Honors in Mathematics
+        \item Phi Beta Kappa and Pi Mu Epsilon
+    \end{itemize}
+\end{itemize}
+    
+<!-- ## Research Interests -->
+
+<!-- \begin{itemize} -->
+<!--     \item[] Sports Analytics; Data Visualization; R Packages; Mathematical Statistics. -->
+<!-- \end{itemize} -->
+
+## Research Experience
+\vspace{-\baselineskip}
+\hrulefill
+
+\begin{itemize} 
+    \item Loyola University Chicago, Department of Mathematics and Statistics, Chicago, Illinois
+    \item[] Graduate Research Assistant \hspace*{\fill} August 2020 - present
+    \item[] \textit{Estimating Aging Curves in Baseball using Multiple Imputation}. Advised by Dr. Gregory J. Matthews.
+\end{itemize}
+
+\begin{itemize} 
+    \item Wittenberg University, Department of Mathematics and Computer Science, Springfield, Ohio
+    \item[] Senior Honors Thesis Research \hspace*{\fill} August 2019 - May 2020
+    \item[] \textit{Predictive Models of English Premier League Goal Scoring}. Advised by Dr. Douglas M. Andrews.
+\end{itemize}
+
+## Academic Experience
+\vspace{-\baselineskip}
+\hrulefill
+
+\begin{itemize} 
+    \item Wittenberg University, Springfield, Ohio
+    \item[] Math Workshop Head Tutor \hspace*{\fill} August 2018 - May 2020
+    \item[] Subjects tutored: Mathematics, Statistics, and Data Science (all levels); Chemistry, Economics, and Computer Science (introductory level); GRE Quantitative.
+\end{itemize}
+
+\begin{itemize} 
+    \item Wittenberg University, Springfield, Ohio
+    \item[] Faculty Aide (Teaching/Research Assistant) \hspace*{\fill} August 2018 - May 2020
+    \item[] Courses assisted: International Business; Business Research Methods; Global Social Entrepreneurship; Business Ethics and Leadership.
+\end{itemize}
+
+\begin{itemize} 
+    \item Clarkston Senior High School, Clarkston, Michigan
+    \item[] S.U.M. (Student Understanding Math) Assistant \hspace*{\fill} January 2017 - May 2017
+    \item[] Course assisted: Algebra II.
+\end{itemize}
+
+## Computing Skills
+\vspace{-\baselineskip}
+\hrulefill
+
+-   Advanced knowledge: R/RStudio - tidyverse (dplyr, ggplot2, tidyr), R Markdown
+
+-   Working knowledge: Python; Java; SQL; SAS; Git/GitHub; \LaTeX
+
+## Presentations & Posters
+\vspace{-\baselineskip}
+\hrulefill
+
+-   Presentation. \textit{"Poisson Modeling and Predicting English Premier League Goal Scoring."} Graduate Research Symposium, Loyola University Chicago, March 2021.
+
+-   Presentation (pre-recorded). \textit{"Poisson Modeling and Predicting English Premier League Goal Scoring."} Midwest Sports Analytics Meeting, November 2020.
+
+-   Presentation. \textit{"Poisson Modeling and Predicting English Premier League Goal Scoring."} International Research Symposium, International Education Week, Loyola University Chicago, November 2020.
+
+-   Presentation. \textit{"Poisson Modeling and Predicting English Premier League Goal Scoring."} Ohio State Sports Analytics Conference, November 2020.
+
+-   Poster. \textit{"Poisson Modeling and Predicting English Premier League Goal Scoring."} NextGen: Data Science Day, New England Statistical Society, November 2020. \textbf{Poster Competition Co-Winner, Undergrad/MS Group}.
+
+-   Poster. \textit{"Poisson Modeling and Predicting English Premier League Goal Scoring."} Carnegie Mellon Sports Analytics Conference, October 2020.
+
+-   Poster. \textit{"Poisson Modeling and Predicting English Premier League Goal Scoring."} UConn Sports Analytics Conference, October 2020.
+
+-   Presentation (pre-recorded). \textit{"Something Fishy About Manchester United’s Distribution of Goals Scored."} Department of Mathematics and Computer Science’s Colloquium Series, Wittenberg University, October 2020.
+
+## Awards & Honors
+\vspace{-\baselineskip}
+\hrulefill
+
+-   Awards
+
+    -   Merit Award, MS in Applied Statistics Program, Loyola University Chicago, 2020-2021
+    
+    -   The Charles and Elsie Little Mathematics Award, Department of Mathematics and Computer Science, Wittenberg University, March 2020
+    
+    -   Mathematics 202 Award, Department of Mathematics and Computer Science, Wittenberg University, June 2019
+    
+    -   Textbook Award, Department of Mathematics and Computer Science, Wittenberg University, June 2019
+    
+    -   International Student Scholarship and International Student Grant Program, Wittenberg University, 2017-2020
+    
+-   Honor Societies
+
+    -   Phi Beta Kappa, Omicron of Ohio Chapter, Wittenberg University, May 2020
+    
+    -   Pi Mu Epsilon, Ohio Upsilon Chapter, Wittenberg University, March 2020
+    
+    -   Phi Eta Sigma, Midwest Region Chapter, Wittenberg University, March 2018
+
+-   Academic Honors
+
+    -   Summa Cum Laude, Wittenberg University, May 2020
+    
+    -   Departmental Honors in Mathematics, Department of Mathematics and Computer Science, Wittenberg University, April 2020
+    
+    -   Pick and Pen, Wittenberg University’s junior honorary, March 2019
+    
+    -   Dean’s List, Wittenberg University, Fall 2017 - Spring 2020
+    
+-   Other Honors
+
+    -   The Charles E. Chatfield Global Awareness Award Nominee, Wittenberg University, Spring 2020
+    
+    -   Homecoming Royalty Nominee, Wittenberg University, Fall 2019
+
+## Coursework
+\vspace{-\baselineskip}
+\hrulefill
+
+-   Graduate \hspace*{\fill} Statistics - Current GPA: 4.00/4.00
+
+    -   Predictive Analytics (Fall 2021)
+    
+    -   Statistical Computation and Simulation (Fall 2021)
+    
+    -   Statistical Consulting (Fall 2021)
+
+    -   Statistical Design and Analysis of Experiments (Fall 2021)
+
+    -   Advanced Statistical Inference (Independent Study)
+    
+    -   Nonparametric Statistics 
+    
+    -   Categorical Data Analysis
+    
+    -   Probability & Mathematical Statistics
+    
+    -   Applied Regression Analysis 
+    
+    -   SAS Programming & Applied Statistics 
+
+-   Undergraduate \hspace*{\fill} Statistics/Data Science - GPA: 4.00/4.00
+
+    -   Mathematical Statistics
+    
+    -   Univariate Probability
+    
+    -   Statistical Modeling
+    
+    -   Introduction to Data Science with R
+    
+    -   Computer Programming II with Java
+    
+    -   Computer Programming I with Python
+    
+    -   Databases
+    
+    -   Data Analysis with Minitab
+
+-   Undergraduate \hspace*{\fill} Mathematics - GPA: 4.00/4.00
+
+    -   Graph Theory
+    
+    -   Real Analysis
+    
+    -   Abstract Algebra
+    
+    -   Linear Algebra
+    
+    -   Multivariable Calculus
+    
+    -   Differential Equations
+    
+    -   Foundations of Geometry
+    
+    -   Discrete Mathematics & Proofs
+    
+    -   Calculus I and II
+
+## University Involvements
+\vspace{-\baselineskip}
+\hrulefill
+
+\begin{itemize} 
+    \item Leadership
+    \begin{itemize}
+        \item International Orientation Assistant, Office of International Education, Wittenberg University, Fall 2018 \& Fall 2019
+        \item Wittenberg Math Club, Secretary and Chair of Contest Recruitment, 2018-2020
+        \item Wittenberg Trivia Night, Student Host, Spring 2020
+    \end{itemize}
+    \item Other Activities
+    \begin{itemize}
+        \item East Asian Studies Club, Wittenberg University, Fall 2019
+        \item American International Association, Wittenberg University, Fall 2017
+    \end{itemize}
+\end{itemize}
+
+## Community Service
+\vspace{-\baselineskip}
+\hrulefill
+
+\begin{itemize} 
+    \item The Fuller Center for Housing, Service Immersion Trip, Wittenberg University, Spring 2019
+    \item[] Service site: Americus/Albany, Georgia
+\end{itemize}
+
+## Languages
+\vspace{-\baselineskip}
+\hrulefill
+
+\begin{itemize}
+    \item Bilingual: Vietnamese (native language) and English (proficient)
+\end{itemize}
+
+## Exchange Programs
+\vspace{-\baselineskip}
+\hrulefill
+
+-   Educatius Group, US F-1 Academic Exchange Program, Clarkston, Michigan, 2016-2017
+
+-   Cultural Academic Student Exchange (CASE), Lead Hill, Arkansas, 2015-2016
