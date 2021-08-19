@@ -3,17 +3,17 @@ output: pdf_document
 header-includes:
     - \usepackage{setspace}\setstretch{0.3}
     - \usepackage{multicol}
-geometry: margin=0.7in
+geometry: margin=0.75in
 fontsize: 10pt
 ---
 
 \sffamily
 
-\center \Large \textbf{Ngoc Minh Quang Nguyen}
+\center \LARGE \textbf{Ngoc Minh Quang Nguyen}
 
 \normalsize
 
-`r fontawesome::fa("phone-alt")` 937-925-6791 \qquad
+`r fontawesome::fa("phone-alt")` (937) 925-6791 \qquad
 `r fontawesome::fa("envelope")` <nminhquang.99@gmail.com> \qquad
 `r fontawesome::fa("link")` [qntkhvn.netlify.app](https://qntkhvn.netlify.app)
 
@@ -79,7 +79,7 @@ fontsize: 10pt
 Advisor: Dr. Gregory J. Matthews
 
 \begin{itemize} 
-\item Esimated the aging curves in baseball using multiple imputation with a hierarchical structure
+\item Estimated the aging curves in baseball using multiple imputation with a hierarchical structure.
 \end{itemize}
 
 <!-- \textit{Estimating Aging Curves in Baseball using Multiple Imputation}. Advised by Dr. Gregory J. Matthews. -->
@@ -92,9 +92,11 @@ Advisor: Dr. Gregory J. Matthews
 
 Advisor: Dr. Douglas M. Andrews
 
+Title: Predictive Models of English Premier League Goal Scoring
+
 \begin{itemize} 
-\item Determined the consistency between the properties of goal scoring (number of goals, time between goals, time location of goals) in the English Premier League and the key distributions of the Poisson process (Poisson, exponential, uniform.)
-\item Utilized Poisson regression to simulate and predict the outcomes for a Premier League season. Explored various team metrics including the chances of winning the league title, finishing in the top four and bottom three, and relegation points.
+\item Determined the consistency between the properties of goal scoring (number of goals, time between goals, time location of goals) in the EPL and the key distributions of the Poisson process (Poisson, exponential, uniform.)
+\item Utilized Poisson regression to simulate and predict the outcomes for a Premier League season. Explored various team metrics including the chances of winning the league title and getting relegated.
 \end{itemize}
 
 <!-- \begin{itemize}  -->
@@ -133,7 +135,7 @@ Advisor: Dr. Douglas M. Andrews
 
 \begin{itemize}
 
-\item Provided aid to Dr. Sunny Jeong with Business courses including Courses assisted: International Business, Business Research Methods, Global Social Entrepreneurship, and Business Ethics and Leadership.
+\item Provided aid to Dr. Sunny Jeong with Business courses including International Business, Business Research Methods, Global Social Entrepreneurship, and Business Ethics and Leadership.
 
 \item Updated course websites, created and graded online assignments, and compiled student grades.
 
@@ -149,7 +151,7 @@ Advisor: Dr. Douglas M. Andrews
 
 \begin{itemize}
 
-\item Facilitated daily Algebra II lessons and assisted students with in-class materials and homework assignments, creating examples to ensure student understanding of math concepts, and giving calculator instructions.
+\item Facilitated daily Algebra II lessons and assisted students with in-class materials and homework assignments.
 
 \end{itemize}
 
@@ -361,7 +363,6 @@ Midwest Region Chapter \hspace*{\fill} 2018
 \end{itemize}
 \end{multicols}
 
-\vspace{\baselineskip}
 \vspace{\baselineskip}
 \vspace{\baselineskip}
 \large \textbf{ACTIVITIES}
