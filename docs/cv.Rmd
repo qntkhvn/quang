@@ -3,9 +3,11 @@ output: pdf_document
 header-includes:
     - \usepackage{setspace}\setstretch{0.3}
     - \usepackage{multicol}
-geometry: margin=0.75in
+geometry: margin=0.7in
 fontsize: 10pt
 ---
+
+\sffamily
 
 \center \Large \textbf{Ngoc Minh Quang Nguyen}
 
@@ -29,10 +31,13 @@ fontsize: 10pt
 
 \raggedright
 
-## Education
-
-\vspace{-\baselineskip}
+\vspace{\baselineskip}
+\vspace{\baselineskip}
+\vspace{\baselineskip}
+\large \textbf{EDUCATION}
 \hrulefill
+\normalsize
+\vspace{\baselineskip}
     
 \textbf{Loyola University Chicago} \hspace*{\fill} Chicago, IL
 
@@ -59,10 +64,13 @@ fontsize: 10pt
 <!--     \item[] Sports Analytics; Data Visualization; R Packages; Mathematical Statistics. -->
 <!-- \end{itemize} -->
 
-## Research Experience
-\vspace{-\baselineskip}
+\vspace{\baselineskip}
+\vspace{\baselineskip}
+\vspace{\baselineskip}
+\large \textbf{RESEARCH EXPERIENCE}
 \hrulefill
-
+\normalsize
+\vspace{\baselineskip}
 
 \textbf{Loyola University Chicago} \hspace*{\fill} Chicago, IL
 
@@ -95,10 +103,13 @@ Advisor: Dr. Douglas M. Andrews
 <!--     \item[] \textit{Predictive Models of English Premier League Goal Scoring}. Advised by Dr. Douglas M. Andrews. -->
 <!-- \end{itemize} -->
 
-## Work Experience
-\vspace{-\baselineskip}
+\vspace{\baselineskip}
+\vspace{\baselineskip}
+\vspace{\baselineskip}
+\large \textbf{WORK EXPERIENCE}
 \hrulefill
-
+\normalsize
+\vspace{\baselineskip}
 
 \textbf{Wittenberg University} \hspace*{\fill} Springfield, OH
 
@@ -142,9 +153,13 @@ Advisor: Dr. Douglas M. Andrews
 
 \end{itemize}
 
-## Computing Skills
-\vspace{-\baselineskip}
+\vspace{\baselineskip}
+\vspace{\baselineskip}
+\vspace{\baselineskip}
+\large \textbf{COMPUTING SKILLS}
 \hrulefill
+\normalsize
+\vspace{\baselineskip}
 
 -   Techniques: data visualization, data wrangling, data mining, machine learning, statistical inference
 
@@ -152,9 +167,13 @@ Advisor: Dr. Douglas M. Andrews
 
 -   Working knowledge: Python; Java; SQL; SAS; Git/GitHub; \LaTeX
 
-## Presentations & Posters
-\vspace{-\baselineskip}
+\vspace{\baselineskip}
+\vspace{\baselineskip}
+\vspace{\baselineskip}
+\large \textbf{PRESENTATIONS \& POSTERS}
 \hrulefill
+\normalsize
+\vspace{\baselineskip}
 
 -   Presentation. "\textit{Poisson Modeling and Predicting English Premier League Goal Scoring.}" Graduate Research Symposium, Loyola University Chicago, March 2021.
 
@@ -172,11 +191,13 @@ Advisor: Dr. Douglas M. Andrews
 
 -   Presentation (pre-recorded). "\textit{Something Fishy About Manchester United’s Distribution of Goals Scored.}" Department of Mathematics and Computer Science’s Colloquium Series, Wittenberg University, October 2020.
 
-## Awards
-\vspace{-\baselineskip}
+\vspace{\baselineskip}
+\vspace{\baselineskip}
+\vspace{\baselineskip}
+\large \textbf{AWARDS}
 \hrulefill
-
-\vspace{2mm}
+\normalsize
+\vspace{\baselineskip}
 
 \textbf{Merit Award} \hspace*{\fill} Loyola University Chicago
 
@@ -218,9 +239,13 @@ Department of Mathematics and Computer Science \hspace*{\fill} 2019
 
 \textbf{International Student Grant Program} \hspace*{\fill} 2017-2020
 
-## Honors
-\vspace{-\baselineskip}
+\vspace{\baselineskip}
+\vspace{\baselineskip}
+\vspace{\baselineskip}
+\large \textbf{HONORS}
 \hrulefill
+\normalsize
+\vspace{\baselineskip}
 
 \textbf{Summa Cum Laude} \hspace*{\fill} Wittenberg University
 
@@ -269,13 +294,19 @@ Midwest Region Chapter \hspace*{\fill} 2018
 
 <!--     -   Homecoming Royalty Nominee, Wittenberg University, Fall 2019 -->
 
-## Coursework
-\vspace{-\baselineskip}
+\vspace{\baselineskip}
+\vspace{\baselineskip}
+\vspace{\baselineskip}
+\large \textbf{COURSEWORK}
 \hrulefill
+\normalsize
+\vspace{\baselineskip}
 
 \textbf{Graduate} \hspace*{\fill} Loyola University Chicago
 
 \textbf{Statistics} (\* In progress) \hspace*{\fill} Current GPA: 4.00/4.00
+
+\vspace{1mm}
 
 \begin{multicols}{2}
 \begin{itemize}
@@ -296,6 +327,8 @@ Midwest Region Chapter \hspace*{\fill} 2018
 
 \textbf{Statistics/Data Science} \hspace*{\fill} Major GPA: 4.00/4.00
 
+\vspace{1mm}
+
 \begin{multicols}{2}
 \begin{itemize}
 \item Mathematical Statistics
@@ -310,6 +343,8 @@ Midwest Region Chapter \hspace*{\fill} 2018
 \end{multicols}
 
 \textbf{Mathematics} \hspace*{\fill} Major GPA: 4.00/4.00
+
+\vspace{1mm}
 
 \begin{multicols}{2}
 \begin{itemize}
@@ -326,39 +361,67 @@ Midwest Region Chapter \hspace*{\fill} 2018
 \end{itemize}
 \end{multicols}
 
-## University Involvements
-\vspace{-\baselineskip}
+\vspace{\baselineskip}
+\vspace{\baselineskip}
+\vspace{\baselineskip}
+\large \textbf{ACTIVITIES}
 \hrulefill
+\normalsize
+\vspace{\baselineskip}
 
 \textbf{Wittenberg University} \hspace*{\fill} Springfield, OH
 
+\vspace{1mm}
+
 International Orientation Assistant \hspace*{\fill} 2018 \& 2019
+
+\vspace{2mm}
 
 Witt Math Club, Secretary and Chair of Contest Recruitment \hspace*{\fill} 2018-2020
 
+\vspace{1mm}
+
 Trivia Night Host \hspace*{\fill} 2020
+
+\vspace{1mm}
 
 East Asian Studies Club \hspace*{\fill} 2019
 
+\vspace{1mm}
+
 American International Association \hspace*{\fill} 2017
 
-## Community Service
-\vspace{-\baselineskip}
+\vspace{2mm}
+
+\vspace{\baselineskip}
+\vspace{\baselineskip}
+\vspace{\baselineskip}
+\large \textbf{COMMUNITY SERVICE}
 \hrulefill
+\normalsize
+\vspace{\baselineskip}
 
 \textbf{The Fuller Center for Housing} \hspace*{\fill} Americus/Albany, GA
 
 Wittenberg University's Service Immersion Spring Break Trip \hspace*{\fill} 2019
 
-## Languages
-\vspace{-\baselineskip}
+\vspace{\baselineskip}
+\vspace{\baselineskip}
+\vspace{\baselineskip}
+\large \textbf{LANGUAGES}
 \hrulefill
+\normalsize
+\vspace{\baselineskip}
 
 Bilingual: \textbf{Vietnamese} (native language) and \textbf{English} (proficient)
 
-## Exchange Programs
-\vspace{-\baselineskip}
+\vspace{\baselineskip}
+\vspace{\baselineskip}
+\vspace{\baselineskip}
+\large \textbf{EXCHANGE PROGRAMS}
 \hrulefill
+\normalsize
+\vspace{\baselineskip}
 
 \textbf{Clarkston Senior High School} \hspace*{\fill} Clarkston, MI
 
