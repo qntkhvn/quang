@@ -43,7 +43,7 @@ fontsize: 10pt
     
 \textbf{Loyola University Chicago} \hspace*{\fill} Chicago, IL
 
-\textbf{Master of Science, Applied Statistics} \hspace*{\fill} Expected December 2021
+\textbf{Master of Science, Applied Statistics} \hspace*{\fill} August 2020 - December 2021 (Expected)
 \begin{itemize}
 \item Current GPA: 4.00/4.00 
 \item Graduate Merit Award
@@ -53,7 +53,7 @@ fontsize: 10pt
 
 \textbf{Wittenberg University}
 
-\textbf{Bachelor of Science, Mathematics and Data Science} \hspace*{\fill} Graduated May 2020
+\textbf{Bachelor of Science, Mathematics and Data Science} \hspace*{\fill} August 2017 - May 2020
 \begin{itemize}
 \item Summa Cum Laude; GPA: 3.97/4.00
 \item Departmental Honors in Mathematics
@@ -165,7 +165,7 @@ Title: Predictive Models of English Premier League Goal Scoring
 \normalsize
 \vspace{\baselineskip}
 
--   Techniques: data visualization, data wrangling, data mining, machine learning, statistical inference
+-   Techniques: data visualization, data wrangling, data mining, machine learning, statistical inference, text processing
 
 -   Advanced knowledge: R/RStudio - tidyverse (dplyr, ggplot2, tidyr), R Markdown
 
