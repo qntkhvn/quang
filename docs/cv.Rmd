@@ -9,6 +9,8 @@ fontsize: 10pt
 
 \sffamily
 
+\pagestyle{empty}
+
 \center \LARGE \textbf{Ngoc Minh Quang Nguyen}
 
 \normalsize
@@ -125,7 +127,7 @@ Title: Predictive Models of English Premier League Goal Scoring
 
 \item Performed daily updates on student activity tracking database. Analyzed time data and fixed bad time entries.
 
-\item Assisted the director with the transition to remote tutoring and implementing new video conferencing platform
+\item Assisted the director with the transition to remote tutoring and implementing new video conferencing platform.
 
 \end{itemize}
 
