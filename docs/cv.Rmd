@@ -214,9 +214,9 @@ Department of Mathematics and Computer Science \hspace*{\fill} 2019
 
 \vspace{2mm}
     
-\textbf{International Student Scholarship and International Student Grant Program} \hspace*{\fill} Wittenberg University
+\textbf{International Student Scholarship and} \hspace*{\fill} Wittenberg University
 
- \hspace*{\fill} 2017-2020
+\textbf{International Student Grant Program} \hspace*{\fill} 2017-2020
 
 ## Honors
 \vspace{-\baselineskip}
@@ -294,7 +294,7 @@ Midwest Region Chapter \hspace*{\fill} 2018
 
 \textbf{Undergraduate} \hspace*{\fill} Wittenberg University
 
-\textbf{Statistics/Data Science} \hspace*{\fill} GPA: 4.00/4.00
+\textbf{Statistics/Data Science} \hspace*{\fill} Major GPA: 4.00/4.00
 
 \begin{multicols}{2}
 \begin{itemize}
@@ -309,7 +309,7 @@ Midwest Region Chapter \hspace*{\fill} 2018
 \end{itemize}
 \end{multicols}
 
-\textbf{Mathematics} \hspace*{\fill} GPA: 4.00/4.00
+\textbf{Mathematics} \hspace*{\fill} Major GPA: 4.00/4.00
 
 \begin{multicols}{2}
 \begin{itemize}
@@ -354,9 +354,7 @@ Wittenberg University's Service Immersion Spring Break Trip \hspace*{\fill} 2019
 \vspace{-\baselineskip}
 \hrulefill
 
-\begin{itemize}
-    \item Bilingual: Vietnamese (native language) and English (proficient)
-\end{itemize}
+Bilingual: \textbf{Vietnamese} (native language) and \textbf{English} (proficient)
 
 ## Exchange Programs
 \vspace{-\baselineskip}
