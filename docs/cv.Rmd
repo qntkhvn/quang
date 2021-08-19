@@ -6,16 +6,22 @@ geometry: margin=0.9in
 fontsize: 10pt
 ---
 
-# Ngoc Minh Quang Nguyen
 
-\small
+\hfill \Large \textbf{Ngoc Minh Quang Nguyen}
 
-`r fontawesome::fa("envelope")` <nminhquang.99@gmail.com> &nbsp;
-<!-- `r fontawesome::fa("phone-alt")` 937-925-6791 &nbsp; -->
-`r fontawesome::fa("link")` [qntkhvn.netlify.app](https://qntkhvn.netlify.app) &nbsp;
-`r fontawesome::fa("linkedin")` [linkedin.com/in/mqnnguyen](https://www.linkedin.com/in/mqnnguyen) &nbsp;
-`r fontawesome::fa("github")` [qntkhvn](https://github.com/qntkhvn) &nbsp;
-`r fontawesome::fa("twitter")` [\@qntkhvn](https://twitter.com/qntkhvn)
+\normalsize
+
+\hfill `r fontawesome::fa("envelope")` <nminhquang.99@gmail.com>
+
+\hfill `r fontawesome::fa("phone-alt")` 937-925-6791
+
+\hfill `r fontawesome::fa("link")` [qntkhvn.netlify.app](https://qntkhvn.netlify.app)
+
+\hfill `r fontawesome::fa("linkedin")` [linkedin.com/in/mqnnguyen](https://www.linkedin.com/in/mqnnguyen)
+
+\hfill `r fontawesome::fa("github")` [qntkhvn](https://github.com/qntkhvn)
+
+\hfill `r fontawesome::fa("twitter")` [\@qntkhvn](https://twitter.com/qntkhvn)
 
 <!-- ## Contact Information -->
 
@@ -25,9 +31,8 @@ fontsize: 10pt
 
 <!-- -   US Visa Status: F-1 (Full-time Academic Student) -->
 
-\normalsize
-
 ## Education
+
 \vspace{-\baselineskip}
 \hrulefill
     
@@ -204,7 +209,7 @@ fontsize: 10pt
     
     -   Databases
     
-    -   Data Analysis with Minitab
+    -   Data Analysis
 
 -   Undergraduate \hspace*{\fill} Mathematics - GPA: 4.00/4.00
 
