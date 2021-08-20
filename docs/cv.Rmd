@@ -46,7 +46,6 @@ fontsize: 10pt
 \textbf{Master of Science, Applied Statistics} \hspace*{\fill} August 2020 - December 2021 (Expected)
 \begin{itemize}
 \item Current GPA: 4.00/4.00 
-\item Graduate Merit Award
 \end{itemize}
 
 \vspace{2mm}
