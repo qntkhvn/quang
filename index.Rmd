@@ -68,7 +68,7 @@ I am currently a graduate student at Loyola University Chicago, pursuing a Maste
 
 <br>
 
-Check out my data science blog - [qntkhvn.netlify.app](https://qntkhvn.netlify.app/)
+Check out my new website, which features a data science blog - [qntkhvn.netlify.app](https://qntkhvn.netlify.app/)
 
 </font>
 
