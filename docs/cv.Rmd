@@ -164,7 +164,7 @@ Title: Predictive Models of English Premier League Goal Scoring
 \normalsize
 \vspace{\baselineskip}
 
--   Techniques: data visualization, data wrangling, data mining, machine learning, statistical inference, text processing
+-   Techniques: data visualization, data wrangling, data mining, machine learning, statistical inference, web scraping
 
 -   Advanced knowledge: R/RStudio - tidyverse (dplyr, ggplot2, tidyr), R Markdown
 
