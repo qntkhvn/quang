@@ -178,6 +178,8 @@ Title: Predictive Models of English Premier League Goal Scoring
 \normalsize
 \vspace{\baselineskip}
 
+-   Poster. "\textit{Concerns Regarding Sport Climbing Competition Format and Scoring System: Who's Suffering?}" UConn Sports Analytics Conference, October 2021. \textbf{Student Poster Award Winner}.
+
 -   Presentation. "\textit{Poisson Modeling and Predicting English Premier League Goal Scoring.}" Graduate Research Symposium, Loyola University Chicago, March 2021.
 
 -   Presentation (pre-recorded). "\textit{Poisson Modeling and Predicting English Premier League Goal Scoring.}" Midwest Sports Analytics Meeting, November 2020.
