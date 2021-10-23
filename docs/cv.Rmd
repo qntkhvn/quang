@@ -480,3 +480,5 @@ Educatius Group, US F-1 Academic Exchange Program \hspace*{\fill} 2016-2017
 \textbf{Lead Hill High School} \hspace*{\fill} Lead Hill, AR
 
 Cultural Academic Student Exchange (CASE) \hspace*{\fill} 2015-2016
+
+\vspace{5mm}
