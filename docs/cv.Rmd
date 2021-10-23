@@ -1,7 +1,7 @@
 ---
 output: pdf_document
 header-includes:
-    - \usepackage{setspace}\setstretch{0.3}
+    - \usepackage{setspace}\setstretch{0.55}
     - \usepackage{multicol}
 geometry: margin=0.75in
 fontsize: 10pt
@@ -74,7 +74,7 @@ fontsize: 10pt
 \vspace{\baselineskip}
 
 \begin{itemize} 
-\item[] Machine learning; statistical applications in sports; data visualization; reproducibility in data science; statistics and data science education; statistical consulting
+\item[] Supervised learning; statistical applications in sports; data visualization; reproducibility in data science; statistics and data science education; statistical consulting.
 \end{itemize}
 
 
@@ -180,9 +180,9 @@ Title: Predictive Models of English Premier League Goal Scoring
 
 -   Techniques: data visualization, data wrangling, data mining, machine learning, statistical inference, web scraping
 
--   Advanced knowledge: R/RStudio - tidyverse (dplyr, ggplot2, tidyr), R Markdown
+-   Advanced knowledge: R/RStudio - tidyverse (dplyr, ggplot2), R Markdown
 
--   Working knowledge: Python; Java; SQL; SAS; Git/GitHub; \LaTeX
+-   Basic knowledge: Python; Java; SQL; SAS; Git/GitHub; \LaTeX
 
 \vspace{\baselineskip}
 \vspace{\baselineskip}
@@ -360,6 +360,8 @@ Midwest Region Chapter \hspace*{\fill} 2018
 \item Introductory Statistics/Data Analysis
 \end{itemize}
 \end{multicols}
+
+\newpage
 
 \textbf{Mathematics} \hspace*{\fill} Major GPA: 4.00/4.00
 
