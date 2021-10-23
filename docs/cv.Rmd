@@ -1,7 +1,7 @@
 ---
 output: pdf_document
 header-includes:
-    - \usepackage{setspace}\setstretch{0.5}
+    - \usepackage{setspace}\setstretch{0.6}
     - \usepackage{multicol}
 geometry: margin=0.7in
 fontsize: 10pt
@@ -314,7 +314,6 @@ Midwest Region Chapter \hspace*{\fill} 2018
 
 <!--     -   Homecoming Royalty Nominee, Wittenberg University, Fall 2019 -->
 
-\vspace{\baselineskip}
 \vspace{\baselineskip}
 \vspace{\baselineskip}
 \large \textbf{COURSEWORK}
