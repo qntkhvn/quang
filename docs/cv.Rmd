@@ -68,6 +68,20 @@ fontsize: 10pt
 \vspace{\baselineskip}
 \vspace{\baselineskip}
 \vspace{\baselineskip}
+\large \textbf{RESEARCH INTERESTS}
+\hrulefill
+\normalsize
+\vspace{\baselineskip}
+
+\begin{itemize} 
+\item[] Machine learning; statistical applications in sports; data visualization; reproducibility in data science; statistics and data science education; statistical consulting
+\end{itemize}
+
+
+
+\vspace{\baselineskip}
+\vspace{\baselineskip}
+\vspace{\baselineskip}
 \large \textbf{RESEARCH EXPERIENCE}
 \hrulefill
 \normalsize
@@ -365,6 +379,34 @@ Midwest Region Chapter \hspace*{\fill} 2018
 \item Calculus I
 \end{itemize}
 \end{multicols}
+
+\vspace{\baselineskip}
+\vspace{\baselineskip}
+\large \textbf{DATA COMPETITIONS}
+\hrulefill
+\normalsize
+\vspace{\baselineskip}
+
+\textbf{Humana-Mays Healthcare Analytics Case Competition} \hspace*{\fill} Texas A&M University, Mays Business School
+
+\vspace{1mm}
+
+2021 Competition, Round 1 \hspace*{\fill} Place: 2/75 
+
+\vspace{2mm}
+
+\textbf{SLICED} \hspace*{\fill} Kaggle Competition 
+
+\vspace{1mm}
+
+Season 1, Episode 9 - 2021 \hspace*{\fill} Place: 1/23 (Audience participation) 
+
+\vspace{1mm}
+
+Season 1, Episode 10 - 2021 \hspace*{\fill} Place: 2/27 (Audience participation) 
+
+\vspace{2mm}
+
 
 \vspace{\baselineskip}
 \vspace{\baselineskip}
