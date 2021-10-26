@@ -60,7 +60,6 @@ fontsize: 10pt
 \end{itemize}
     
 <!-- ## Research Interests -->
-
 <!-- \begin{itemize} -->
 <!--     \item[] Sports Analytics; Data Visualization; R Packages; Mathematical Statistics. -->
 <!-- \end{itemize} -->
