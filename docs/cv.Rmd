@@ -209,7 +209,7 @@ Title: Predictive Models of English Premier League Goal Scoring
 
 -   \textbf{Nguyen, Q.} (2021). "Poisson Modeling and Predicting English Premier League Goal Scoring." \textit{New England Journal of Statistics in Data Science} (Accepted). [[arXiv:2105.09881]](https://arxiv.org/abs/2105.09881).
 
--   \textbf{Nguyen, Q.}, Butler, H., Matthews, G.J. (2021). An Examination of Sport Climbing's Competition Format and Scoring System (Pre-print). [[arXiv:2111.05310]](https://arxiv.org/abs/2111.05310).
+-   \textbf{Nguyen, Q.}, Butler, H., Matthews, G.J. (2021). "An Examination of Sport Climbing's Competition Format and Scoring System" (Pre-print). [[arXiv:2111.05310]](https://arxiv.org/abs/2111.05310).
 
 \vspace{\baselineskip}
 \vspace{\baselineskip}
