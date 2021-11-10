@@ -3,7 +3,7 @@ output: pdf_document
 header-includes:
     - \usepackage{setspace}\setstretch{0.6}
     - \usepackage{multicol}
-geometry: margin=0.7in
+geometry: margin=0.8in
 fontsize: 10pt
 ---
 
@@ -15,7 +15,7 @@ fontsize: 10pt
 
 \normalsize
 
-`r fontawesome::fa("phone-alt")` (937) 925-6791 \qquad
+`r fontawesome::fa("phone-alt")` +1 (937) 925-6791 \qquad
 `r fontawesome::fa("envelope")` <nminhquang.99@gmail.com> \qquad
 `r fontawesome::fa("link")` [qntkhvn.netlify.app](https://qntkhvn.netlify.app)
 
@@ -94,7 +94,8 @@ Advisor: Dr. Gregory J. Matthews
 
 \begin{itemize} 
 \item Project: Estimating the aging curves in baseball using multiple imputation with a hierarchical structure.
-\item Project: Examining the concerns regarding the combined competition format and rank-product scoring in sport climbing.
+\item Project: Examining the concerns regarding the competition format and scoring system of sport climbing.
+\item Project: Building predictive models for classifying the gender of stickleback fossil. 
 \end{itemize}
 
 <!-- \textit{Estimating Aging Curves in Baseball using Multiple Imputation}. Advised by Dr. Gregory J. Matthews. -->
@@ -111,7 +112,7 @@ Title: Predictive Models of English Premier League Goal Scoring
 
 \begin{itemize} 
 \item Determined the consistency between the properties of goal scoring (number of goals, time between goals, time location of goals) in the EPL and the key distributions of the Poisson process (Poisson, exponential, uniform.)
-\item Utilized Poisson regression to simulate and predict the outcomes for a Premier League season. Explored various team metrics including the chances of winning the league title and getting relegated.
+\item Utilized Poisson regression to simulate and predict the outcomes for a Premier League season.
 \end{itemize}
 
 <!-- \begin{itemize}  -->
@@ -123,10 +124,24 @@ Title: Predictive Models of English Premier League Goal Scoring
 \vspace{\baselineskip}
 \vspace{\baselineskip}
 \vspace{\baselineskip}
-\large \textbf{WORK EXPERIENCE}
+\large \textbf{ACADEMIC EXPERIENCE}
 \hrulefill
 \normalsize
 \vspace{\baselineskip}
+
+\textbf{Loyola University Chicago, Department of Mathematics and Statistics} \hspace*{\fill} Chicago, IL
+
+\textbf{Adjunct Instructor} (Accepted Position) \hspace*{\fill} January 2022 - May 2022
+
+\begin{itemize}
+
+\item Appointed as an adjunct instructor for Spring 2022 semester.
+
+\item Courses taught: Fundamentals of Statistics (STAT 103) and Precalculus I (MATH 117)
+
+\end{itemize}
+
+\vspace{2mm}
 
 \textbf{Wittenberg University} \hspace*{\fill} Springfield, OH
 
@@ -180,9 +195,21 @@ Title: Predictive Models of English Premier League Goal Scoring
 
 -   Techniques: data visualization, data wrangling, data mining, machine learning, statistical inference, web scraping
 
--   Advanced knowledge: R/RStudio - tidyverse (dplyr, ggplot2), R Markdown
+-   Advanced knowledge: R/RStudio - `tidyverse` (`dplyr`, `ggplot2`), R Markdown
 
 -   Basic knowledge: Python; Java; SQL; SAS; Git/GitHub; \LaTeX
+
+\vspace{\baselineskip}
+\vspace{\baselineskip}
+\vspace{\baselineskip}
+\large \textbf{PAPERS}
+\hrulefill
+\normalsize
+\vspace{\baselineskip}
+
+-   \textbf{Nguyen, Q.} (2021). "Poisson Modeling and Predicting English Premier League Goal Scoring." \textit{New England Journal of Statistics in Data Science} (Accepted). [[arXiv:2105.09881]](https://arxiv.org/abs/2105.09881).
+
+-   \textbf{Nguyen, Q.}, Butler, H., Matthews, G.J. (2021). An Examination of Sport Climbing's Competition Format and Scoring System (Pre-print). [[arXiv:2111.05310]](https://arxiv.org/abs/2111.05310).
 
 \vspace{\baselineskip}
 \vspace{\baselineskip}
@@ -192,120 +219,76 @@ Title: Predictive Models of English Premier League Goal Scoring
 \normalsize
 \vspace{\baselineskip}
 
--   Poster. "\textit{Concerns Regarding Sport Climbing Competition Format and Scoring System: Who's Suffering?}" UConn Sports Analytics Conference, October 2021. \textbf{Student Poster Award Winner}.
+-   Presentation. "An Examination of Sport Climbing's Competition Format and Scoring System" \textit{Reproducible Research Competition, Carnegie Mellon Sports Analytics Conference}, November 2021. \textbf{Open Methodology Track Winner}
 
--   Presentation. "\textit{Poisson Modeling and Predicting English Premier League Goal Scoring.}" Graduate Research Symposium, Loyola University Chicago, March 2021.
+-   Poster. "Concerns Regarding Sport Climbing Competition Format and Scoring System: Who's Suffering?" \textit{UConn Sports Analytics Conference}, October 2021. \textbf{Student Poster Award Winner}.
 
--   Presentation (pre-recorded). "\textit{Poisson Modeling and Predicting English Premier League Goal Scoring.}" Midwest Sports Analytics Meeting, November 2020.
+-   Presentation. "Poisson Modeling and Predicting English Premier League Goal Scoring." \textit{Graduate Research Symposium, Loyola University Chicago}, March 2021.
 
--   Presentation. "\textit{Poisson Modeling and Predicting English Premier League Goal Scoring.}" International Research Symposium, International Education Week, Loyola University Chicago, November 2020.
+-   Presentation (pre-recorded). "Poisson Modeling and Predicting English Premier League Goal Scoring." \textit{Midwest Sports Analytics Meeting}, November 2020.
 
--   Presentation. "\textit{Poisson Modeling and Predicting English Premier League Goal Scoring.}" Ohio State Sports Analytics Conference, November 2020.
+<!-- -   Presentation. "Poisson Modeling and Predicting English Premier League Goal Scoring." International Research Symposium, International Education Week, Loyola University Chicago, November 2020. -->
 
--   Poster. "\textit{Poisson Modeling and Predicting English Premier League Goal Scoring.}" NextGen: Data Science Day, New England Statistical Society, November 2020. \textbf{Poster Competition Co-Winner, Undergrad/MS Group}.
+<!-- -   Presentation. "Poisson Modeling and Predicting English Premier League Goal Scoring." Ohio State Sports Analytics Conference, November 2020. -->
 
--   Poster. "\textit{Poisson Modeling and Predicting English Premier League Goal Scoring.}" Carnegie Mellon Sports Analytics Conference, October 2020.
+-   Poster. "Poisson Modeling and Predicting English Premier League Goal Scoring." \textit{NextGen: Data Science Day, New England Statistical Society}, November 2020. \textbf{Poster Competition Co-Winner, Undergrad/MS Group}.
 
--   Poster. "\textit{Poisson Modeling and Predicting English Premier League Goal Scoring.}" UConn Sports Analytics Conference, October 2020.
+-   Poster. "Poisson Modeling and Predicting English Premier League Goal Scoring." \textit{Carnegie Mellon Sports Analytics Conference}, October 2020.
 
--   Presentation (pre-recorded). "\textit{Something Fishy About Manchester United’s Distribution of Goals Scored.}" Department of Mathematics and Computer Science’s Colloquium Series, Wittenberg University, October 2020.
+-   Poster. "Poisson Modeling and Predicting English Premier League Goal Scoring." \textit{UConn Sports Analytics Conference}, October 2020.
+
+<!-- -   Presentation (pre-recorded). "\textit{Something Fishy About Manchester United’s Distribution of Goals Scored.}" Department of Mathematics and Computer Science’s Colloquium Series, Wittenberg University, October 2020. -->
 
 \vspace{\baselineskip}
 \vspace{\baselineskip}
 \vspace{\baselineskip}
-\large \textbf{AWARDS}
+\large \textbf{HONORS \& AWARDS}
 \hrulefill
 \normalsize
 \vspace{\baselineskip}
 
-\textbf{Merit Award} \hspace*{\fill} Loyola University Chicago
+\begin{itemize}
 
-MS in Applied Statistics Program \hspace*{\fill} 2020-2021
+\item \textbf{Reproducible Research Competition Winner}, Open Methodology Track, Carnegie Mellon Sports Analytics Conference (CMSAC), 2021.
 
-\vspace{2mm}
+\item \textbf{Best Student Poster Award}, UConn Sports Analytics Symposium (UCSAS), 2021
 
-\textbf{The Charles and Elsie Little Mathematics Award} \hspace*{\fill} Wittenberg University
+\item \textbf{Poster Competition Co-Winner}, Undergrad/MS Group, New England Statistical Society (NESS) - NextGen: Data Science Day, 2020
 
-Department of Mathematics and Computer Science \hspace*{\fill} 2020
+\item \textbf{Merit Award}, MS in Applied Statistics Program, Loyola University Chicago, 2020-2021.
 
+\item \textbf{Summa Cum Laude}. Graduated with the highest distinction, Wittenberg University, 2020.
+
+\item \textbf{Departmental Honors in Mathematics}, Department of Mathematics and Computer Science, Wittenberg University, 2020.
+
+\item \textbf{Phi Beta Kappa}, Omicron of Ohio Chapter, Wittenberg University, 2020.
+
+\item \textbf{Pi Mu Epsilon}, Ohio Upsilon Chapter, Wittenberg University, 2020.
+
+\item \textbf{The Charles and Elsie Little Mathematics Award}, Department of Mathematics and Computer Science, Wittenberg University, 2020
 \begin{itemize}
 \item Awarded to the most outstanding senior mathematics and data science majors.
 \end{itemize}
 
-\vspace{2mm}
+\item \textbf{Pick and Pen}, Wittenberg University, 2019.
     
-\textbf{Mathematics 202 Award} \hspace*{\fill} Wittenberg University
-
-Department of Mathematics and Computer Science \hspace*{\fill} 2019
-
+\item \textbf{Mathematics 202 Award}, Department of Mathematics and Computer Science, Wittenberg University, 2018.
 \begin{itemize}
 \item Awarded to an outstanding first-year student in the introductory calculus sequence.
 \end{itemize}
-
-\vspace{2mm}
     
-\textbf{Textbook Award} \hspace*{\fill} Wittenberg University
-
-Department of Mathematics and Computer Science \hspace*{\fill} 2019
-
+\item \textbf{Textbook Award}, Department of Mathematics and Computer Science, Wittenberg University, 2018.
 \begin{itemize}
 \item Awarded to first-year students majoring in the Department of Mathematics and Computer Science.
 \end{itemize}
 
-\vspace{2mm}
+\item \textbf{Phi Eta Sigma}, Wittenberg University, 2018.
+
+\item \textbf{Dean's List}, Wittenberg University, Fall 2017 - Spring 2020 (all semesters).
     
-\textbf{International Student Scholarship and} \hspace*{\fill} Wittenberg University
+\item \textbf{International Student Scholarship} and \textbf{International Student Grant Program}, Wittenberg University, 2017-2020
 
-\textbf{International Student Grant Program} \hspace*{\fill} 2017-2020
-
-\vspace{\baselineskip}
-\vspace{\baselineskip}
-\vspace{\baselineskip}
-\large \textbf{HONORS}
-\hrulefill
-\normalsize
-\vspace{\baselineskip}
-
-\textbf{Summa Cum Laude} \hspace*{\fill} Wittenberg University
-
-Graduated with the highest distinction \hspace*{\fill} 2020
-
-\vspace{2mm}
-
-\textbf{Departmental Honors in Mathematics} \hspace*{\fill} Wittenberg University
-
-Department of Mathematics and Computer Science \hspace*{\fill} 2020
-
-\vspace{2mm}
-    
-\textbf{Phi Beta Kappa} \hspace*{\fill} Wittenberg University
-
-Omicron of Ohio Chapter \hspace*{\fill} 2020
-
-\vspace{2mm}
-
-\textbf{Pi Mu Epsilon} \hspace*{\fill} Wittenberg University
-
-Ohio Upsilon Chapter \hspace*{\fill} 2020
-
-\vspace{2mm}
-
-\textbf{Pick and Pen} \hspace*{\fill} Wittenberg University
-
-Junior honorary emphasizing leadership, service and
-scholarship \hspace*{\fill} 2019
-
-\vspace{2mm}
-
-\textbf{Phi Eta Sigma} \hspace*{\fill} Wittenberg University
-
-Midwest Region Chapter \hspace*{\fill} 2018
-
-\vspace{2mm}
-
-\textbf{Dean's List} \hspace*{\fill} Wittenberg University
-
- \hspace*{\fill} All semesters: Fall 2017 - Spring 2020
+\end{itemize}
     
 <!-- -   Other Honors -->
 
@@ -313,6 +296,7 @@ Midwest Region Chapter \hspace*{\fill} 2018
 
 <!--     -   Homecoming Royalty Nominee, Wittenberg University, Fall 2019 -->
 
+\vspace{\baselineskip}
 \vspace{\baselineskip}
 \vspace{\baselineskip}
 \large \textbf{COURSEWORK}
@@ -360,6 +344,8 @@ Midwest Region Chapter \hspace*{\fill} 2018
 \end{itemize}
 \end{multicols}
 
+\newpage
+
 \textbf{Mathematics} \hspace*{\fill} Major GPA: 4.00/4.00
 
 \vspace{1mm}
@@ -379,6 +365,7 @@ Midwest Region Chapter \hspace*{\fill} 2018
 \end{itemize}
 \end{multicols}
 
+
 \vspace{\baselineskip}
 \vspace{\baselineskip}
 \large \textbf{DATA COMPETITIONS}
@@ -386,11 +373,11 @@ Midwest Region Chapter \hspace*{\fill} 2018
 \normalsize
 \vspace{\baselineskip}
 
-\textbf{Humana-Mays Healthcare Analytics Case Competition} \hspace*{\fill} Texas A&M University, Mays Business School
+\textbf{2021 Humana-Mays Healthcare Analytics Case Competition} \hspace*{\fill} Texas A&M University, Mays Business School
 
 \vspace{1mm}
 
-2021 Competition, Round 1 \hspace*{\fill} Place: 2/75 
+Round 1 (Prediction Accuracy and Fairness) \hspace*{\fill} Place: 2/75 
 
 \vspace{2mm}
 
