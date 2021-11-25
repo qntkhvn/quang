@@ -94,8 +94,8 @@ Advisor: Dr. Gregory J. Matthews
 
 \begin{itemize} 
 \item Project: Estimating the aging curves in baseball using multiple imputation with a hierarchical structure.
-\item Project: Examining the concerns regarding the competition format and scoring system of sport climbing.
-\item Project: Building predictive models for classifying the gender of stickleback fossil. 
+\item Project: Evaluating the concerns regarding the combined competition format and rank-product scoring in sport climbing through simulations and data analysis.
+\item Project: Statistical models for inferring the gender of stickleback fossil. 
 \end{itemize}
 
 <!-- \textit{Estimating Aging Curves in Baseball using Multiple Imputation}. Advised by Dr. Gregory J. Matthews. -->
@@ -111,7 +111,7 @@ Advisor: Dr. Douglas M. Andrews
 Title: Predictive Models of English Premier League Goal Scoring
 
 \begin{itemize} 
-\item Determined the consistency between the properties of goal scoring (number of goals, time between goals, time location of goals) in the EPL and the key distributions of the Poisson process (Poisson, exponential, uniform.)
+\item Determined that the Poisson process provides a good fit for modeling the time and event properties of goal scoring in the English Premier League
 \item Utilized Poisson regression to simulate and predict the outcomes for a Premier League season.
 \end{itemize}
 
@@ -137,7 +137,7 @@ Title: Predictive Models of English Premier League Goal Scoring
 
 \item Appointed as an adjunct instructor for Spring 2022 semester.
 
-\item Courses taught: Fundamentals of Statistics (STAT 103) and Precalculus I (MATH 117)
+\item Courses: Fundamentals of Statistics (STAT 103) and Precalculus I (MATH 117)
 
 \end{itemize}
 
@@ -207,9 +207,9 @@ Title: Predictive Models of English Premier League Goal Scoring
 \normalsize
 \vspace{\baselineskip}
 
--   \textbf{Nguyen, Q.} (2021). "Poisson Modeling and Predicting English Premier League Goal Scoring." \textit{New England Journal of Statistics in Data Science} (Accepted). [[arXiv:2105.09881]](https://arxiv.org/abs/2105.09881).
+-   \textbf{Nguyen, Q.} (2021). "Poisson Modeling and Predicting English Premier League Goal Scoring." \textit{New England Journal of Statistics in Data Science} (To appear). [[arXiv:2105.09881]](https://arxiv.org/abs/2105.09881).
 
--   \textbf{Nguyen, Q.}, Butler, H., Matthews, G.J. (2021). "An Examination of Sport Climbing's Competition Format and Scoring System" (Pre-print). [[arXiv:2111.05310]](https://arxiv.org/abs/2111.05310).
+-   \textbf{Nguyen, Q.}, Butler, H., Matthews, G.J. (2021). "An Examination of Sport Climbing's Competition Format and Scoring System." (Pre-print). [[arXiv:2111.05310]](https://arxiv.org/abs/2111.05310).
 
 \vspace{\baselineskip}
 \vspace{\baselineskip}
@@ -364,13 +364,14 @@ Title: Predictive Models of English Premier League Goal Scoring
 \end{multicols}
 
 \vspace{\baselineskip}
-\vspace{\baselineskip}
 \large \textbf{MEDIA}
 \hrulefill
 \normalsize
 \vspace{\baselineskip}
 
 *   "Can you pick the AFL's Brownlow Medal winner without knowing the first thing about Australian rules?" \url{https://www.abc.net.au/news/2021-09-19/afl-trying-to-predict-the-2021-brownlow-medal-winner/100472246}
+
+\vspace{2mm}
 
 \vspace{\baselineskip}
 \vspace{\baselineskip}
