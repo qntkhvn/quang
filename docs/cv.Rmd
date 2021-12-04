@@ -135,7 +135,7 @@ Title: Predictive Models of English Premier League Goal Scoring
 
 \begin{itemize}
 
-\item Appointed as an part-time instructor for Spring 2022 semester.
+\item Appointed as a part-time instructor for Spring 2022 semester.
 
 \item Courses: Fundamentals of Statistics (STAT 103, 2 sections)
 
