@@ -73,7 +73,7 @@ fontsize: 10pt
 
 \begin{itemize} 
 \onehalfspacing
-\item[] Supervised learning; statistical applications in sports; data visualization; reproducibility in data science; statistics and data science education; statistical consulting.
+\item[] Data science, supervised learning; statistical applications in sports; data visualization; reproducibility in data science; statistics and data science education; statistical consulting.
 \end{itemize}
 
 \setstretch{0.55}
@@ -131,13 +131,13 @@ Title: Predictive Models of English Premier League Goal Scoring
 
 \textbf{Loyola University Chicago, Department of Mathematics and Statistics} \hspace*{\fill} Chicago, IL
 
-\textbf{Adjunct Instructor} (Accepted Position) \hspace*{\fill} January 2022 - May 2022
+\textbf{Instructor} (Accepted Position) \hspace*{\fill} January 2022 - May 2022
 
 \begin{itemize}
 
-\item Appointed as an adjunct instructor for Spring 2022 semester.
+\item Appointed as an part-time instructor for Spring 2022 semester.
 
-\item Courses: Fundamentals of Statistics (STAT 103) and Precalculus I (MATH 117)
+\item Courses: Fundamentals of Statistics (STAT 103, 2 sections)
 
 \end{itemize}
 
