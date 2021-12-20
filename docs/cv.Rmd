@@ -43,9 +43,9 @@ fontsize: 10pt
     
 \textbf{Loyola University Chicago} \hspace*{\fill} Chicago, IL
 
-\textbf{Master of Science, Applied Statistics} \hspace*{\fill} August 2020 - December 2021 (Expected)
+\textbf{Master of Science, Applied Statistics} \hspace*{\fill} August 2020 - December 2021
 \begin{itemize}
-\item Current GPA: 4.00/4.00 
+\item GPA: 4.00/4.00 
 \end{itemize}
 
 \vspace{2mm}
@@ -131,7 +131,7 @@ Title: Predictive Models of English Premier League Goal Scoring
 
 \textbf{Loyola University Chicago, Department of Mathematics and Statistics} \hspace*{\fill} Chicago, IL
 
-\textbf{Instructor} (Accepted Position) \hspace*{\fill} January 2022 - May 2022
+\textbf{Instructor} \hspace*{\fill} January 2022 - May 2022
 
 \begin{itemize}
 
@@ -306,16 +306,16 @@ Title: Predictive Models of English Premier League Goal Scoring
 
 \textbf{Graduate} \hspace*{\fill} Loyola University Chicago
 
-\textbf{Statistics} (\* In progress) \hspace*{\fill} Current GPA: 4.00/4.00
+\textbf{Statistics} \hspace*{\fill} GPA: 4.00/4.00
 
 \vspace{1mm}
 
 \begin{multicols}{2}
 \begin{itemize}
-\item Predictive Analytics*
-\item Statistical Computation and Simulation*
-\item Statistical Consulting*
-\item Statistical Design and Analysis of Experiments*
+\item Predictive Analytics
+\item Statistical Computation and Simulation
+\item Statistical Consulting
+\item Statistical Design and Analysis of Experiments
 \item Advanced Statistical Inference (Independent Study)
 \item Nonparametric Statistics 
 \item Categorical Data Analysis
