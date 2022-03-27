@@ -19,7 +19,7 @@ fontsize: 10pt
 `r fontawesome::fa("envelope")` <nminhquang.99@gmail.com> \qquad
 `r fontawesome::fa("link")` [qntkhvn.netlify.app](https://qntkhvn.netlify.app)
 
-`r fontawesome::fa("linkedin")` [linkedin.com/in/mqnnguyen](https://www.linkedin.com/in/mqnnguyen) \qquad
+`r fontawesome::fa("linkedin")` [qntkhvn](https://www.linkedin.com/in/qntkhvn) \qquad
 `r fontawesome::fa("github")` [qntkhvn](https://github.com/qntkhvn) \qquad
 `r fontawesome::fa("twitter")` [\@qntkhvn](https://twitter.com/qntkhvn) \qquad
 
@@ -88,7 +88,7 @@ fontsize: 10pt
 
 \textbf{Loyola University Chicago} \hspace*{\fill} Chicago, IL
 
-\textbf{Graduate Research Assistant} \hspace*{\fill} August 2020 - present
+\textbf{Graduate Research Assistant} \hspace*{\fill} August 2020 - December 2021
 
 Advisor: Dr. Gregory J. Matthews
 
@@ -137,7 +137,7 @@ Title: Predictive Models of English Premier League Goal Scoring
 
 \item Appointed as a part-time instructor for Spring 2022 semester.
 
-\item Courses: Fundamentals of Statistics (STAT 103, 2 sections)
+\item Courses: Fundamentals of Statistics (STAT 103, 3 sections)
 
 \end{itemize}
 
